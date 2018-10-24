@@ -19,3 +19,4 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
 ]
+#2018年10月24日19:47:30
